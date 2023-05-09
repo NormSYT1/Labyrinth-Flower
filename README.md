@@ -1,1 +1,1 @@
-# Labyrinth-Flower
+# This is a labyrinth game.The purpose of the game. The purpose of the game is to reach the flower in the labyrinth without hitting the walls and obstacles. Each time you hit a wall, 1 health is reduced.
