@@ -1,4 +1,6 @@
-# This is a labyrinth game.The purpose of the game. The purpose of the game is to reach the flower in the labyrinth without hitting the walls and obstacles. Each time you hit a wall, 1 health is reduced.
+# This is a labyrinth game.The purpose of the game
+# The purpose of the game is to reach the flower in the labyrinth without hitting the walls and obstacles
+# Each time you hit a wall, 1 health is reduced
 # The game consists of 10 chapters
 ![1](https://github.com/NormSYT1/Labyrinth-Flower/assets/110778114/5e7ee4aa-1bc3-4971-b067-71a550694bfe)
 ![2](https://github.com/NormSYT1/Labyrinth-Flower/assets/110778114/d66938c8-61cc-45f9-a15d-419c1bd37625)
