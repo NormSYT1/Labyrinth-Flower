@@ -111,17 +111,9 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 21
       Script: {instanceID: 0}
-    - Class: 23
-      Script: {instanceID: 0}
     - Class: 28
       Script: {instanceID: 0}
-    - Class: 33
-      Script: {instanceID: 0}
-    - Class: 43
-      Script: {instanceID: 0}
     - Class: 48
-      Script: {instanceID: 0}
-    - Class: 64
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -930,17 +922,9 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 21
       Script: {instanceID: 0}
-    - Class: 23
-      Script: {instanceID: 0}
     - Class: 28
       Script: {instanceID: 0}
-    - Class: 33
-      Script: {instanceID: 0}
-    - Class: 43
-      Script: {instanceID: 0}
     - Class: 48
-      Script: {instanceID: 0}
-    - Class: 64
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -1487,5 +1471,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level9.unity
   - Assets/Scenes/Level10.unity
   - Assets/Scenes/LastScene.unity
-  playerPath: "C:/Users/drogb/Desktop/Yap\u0131lan Oyunlar/Biten Oyunlar/Labirent
+  playerPath: "D:/Yap\u0131lan Oyunlar/Yap\u0131lan Oyunlar/Biten Oyunlar/Labirent
     Oyunu/Labyrinth Flower.apk"

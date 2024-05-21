@@ -663,6 +663,30 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 0.78431374
       objectReference: {fileID: 0}
+    - target: {fileID: 9077504231834398455, guid: 5d938e2344b7caf49834a6d441974d66, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.980536
+      objectReference: {fileID: 0}
+    - target: {fileID: 9077504231834398455, guid: 5d938e2344b7caf49834a6d441974d66, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.9884402
+      objectReference: {fileID: 0}
+    - target: {fileID: 9077504231834398455, guid: 5d938e2344b7caf49834a6d441974d66, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9077504231834398455, guid: 5d938e2344b7caf49834a6d441974d66, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9077504231834398455, guid: 5d938e2344b7caf49834a6d441974d66, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9077504231834398455, guid: 5d938e2344b7caf49834a6d441974d66, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 9077504232297374272, guid: 5d938e2344b7caf49834a6d441974d66, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -1862,7 +1886,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8780679483470330926, guid: 459b8bc5cd2662140910409587c397dc, type: 3}
       propertyPath: m_Name
-      value: Plane
+      value: Plane1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 459b8bc5cd2662140910409587c397dc, type: 3}

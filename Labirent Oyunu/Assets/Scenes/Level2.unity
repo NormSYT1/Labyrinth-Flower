@@ -584,7 +584,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8780679483470330926, guid: 459b8bc5cd2662140910409587c397dc, type: 3}
       propertyPath: m_Name
-      value: Plane
+      value: Plane1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 459b8bc5cd2662140910409587c397dc, type: 3}
